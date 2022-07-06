@@ -1,0 +1,14 @@
+.brand_logo{
+	width:48px;
+	height:48px;
+	margin-top:-14px;
+	border-radius:5px;
+	border:1px solid #dedede;
+}
+
+.bg{
+		background-image:url("background.jpg");
+		background-position:center;
+		height:100%;
+		background-size:cover;
+	}	
